@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gizlilik Politikası — Siir Ajanlari</title>
+<style>
+  body{font-family:Georgia,serif;max-width:720px;margin:60px auto;padding:0 20px;line-height:1.7;color:#222;background:#faf8f4}
+  h1,h2{font-weight:normal}
+  a{color:#5a3e8a}
+</style>
+</head>
+<body>
+<h1>Gizlilik Politikası</h1>
+<p>Son güncelleme: 17 Kasım 2026</p>
+
+<p>"Siir Ajanlari", NistiGrevşoB'nin kendi şiirlerinden hazırladığı videoları <strong>yalnızca kendi</strong> YouTube kanalına ve Instagram hesabına yüklemek için kullandığı kişisel bir uygulamadır. Uygulama başka kişilere hizmet vermez ve başka kullanıcıların hesaplarına erişmez.</p>
+
+<h2>Hangi verilere erişilir?</h2>
+<ul>
+  <li><strong>YouTube:</strong> Google hesabı sahibinin kendi kanalına video yüklemek (youtube.upload) ve yüklenen videoların durumunu görmek (youtube.readonly) için izin istenir.</li>
+  <li><strong>Instagram:</strong> Hesap sahibinin kendi profesyonel hesabında Reels paylaşmak için izin kullanılır.</li>
+</ul>
+
+<h2>Veriler nasıl kullanılır ve saklanır?</h2>
+<ul>
+  <li>Erişim izinleri yalnızca hesap sahibinin kendi bilgisayarında saklanır ve yalnızca onun videolarını yüklemek için kullanılır.</li>
+  <li>Hiçbir kişisel veri satılmaz, kiralanmaz veya üçüncü kişilerle paylaşılmaz.</li>
+  <li>Reklam, profil çıkarma veya başka bir amaçla veri toplanmaz.</li>
+</ul>
+
+<h2>Google API Hizmetleri</h2>
+<p>Bu uygulama YouTube API Hizmetlerini kullanır. Bu kullanım <a href="https://www.youtube.com/t/terms">YouTube Hizmet Şartları</a>'na ve <a href="https://policies.google.com/privacy">Google Gizlilik Politikası</a>'na tabidir. Google API'lerinden alınan bilgilerin kullanımı, Sınırlı Kullanım (Limited Use) koşulları dahil olmak üzere <a href="https://developers.google.com/terms/api-services-user-data-policy">Google API Hizmetleri Kullanıcı Verileri Politikası</a>'na uygundur.</p>
+
+<h2>İzni geri alma</h2>
+<p>Verilen izinler istenildiği an <a href="https://security.google.com/settings/security/permissions">Google hesap izinleri</a> sayfasından ve Instagram'da Ayarlar → Uygulamalar ve İnternet Siteleri bölümünden kaldırılabilir. İzin kaldırıldığında uygulama hiçbir veriye erişemez; bilgisayarda saklanan izin dosyası da silinebilir.</p>
+
+<h2>İletişim</h2>
+<p>Sorularınız için: kadirozcan2810@gmail.com</p>
+
+<p><a href="index.html">Ana sayfa</a></p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NistiGrevşoB — Şiir</title>
+<style>
+  body{font-family:Georgia,serif;max-width:640px;margin:60px auto;padding:0 20px;line-height:1.7;color:#222;background:#faf8f4}
+  h1{font-weight:normal;letter-spacing:1px}
+  a{color:#5a3e8a}
+  footer{margin-top:48px;font-size:14px;color:#777}
+</style>
+</head>
+<body>
+<h1>NistiGrevşoB</h1>
+<p>Kendi kitaplarımdaki şiirleri kısa videolar olarak paylaşıyorum.</p>
+<p>Videolar YouTube ve Instagram hesaplarımda yayımlanır. Seslendirmede yapay zekâ kullanılır; her video yayımlanmadan önce tarafımdan izlenip onaylanır.</p>
+<p><a href="gizlilik.html">Gizlilik Politikası</a> · <a href="kosullar.html">Kullanım Koşulları</a></p>
+<footer>İletişim: kadirozcan2810@gmail.com</footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kullanım Koşulları — Siir Ajanlari</title>
+<style>
+  body{font-family:Georgia,serif;max-width:720px;margin:60px auto;padding:0 20px;line-height:1.7;color:#222;background:#faf8f4}
+  h1{font-weight:normal}
+  a{color:#5a3e8a}
+</style>
+</head>
+<body>
+<h1>Kullanım Koşulları</h1>
+<p>Son güncelleme: 17 Kasım 2026</p>
+<p>"Siir Ajanlari", NistiGrevşoB'nin yalnızca kendi şiirlerini kendi YouTube kanalında ve Instagram hesabında paylaşmak için kullandığı kişisel bir araçtır. Dışarıdan kullanıcıya açık değildir.</p>
+<p>Uygulama YouTube API Hizmetlerini kullanır; kullanımı <a href="https://www.youtube.com/t/terms">YouTube Hizmet Şartları</a>'na tabidir.</p>
+<p>Videolardaki şiirlerin tüm hakları şaire aittir. İzinsiz kopyalanamaz.</p>
+<p>İletişim: kadirozcan2810@gmail.com</p>
+<p><a href="index.html">Ana sayfa</a> · <a href="gizlilik.html">Gizlilik Politikası</a></p>
+</body>
+</html>
